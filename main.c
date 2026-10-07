@@ -1,6 +1,9 @@
 #include <stdio.h>
+
 int main()
 {
   printf("Oss Project\n");
-return 0;
+  printf("First github training\n");
+  
+  return 0;
 }
